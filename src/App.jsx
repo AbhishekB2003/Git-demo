@@ -10,6 +10,7 @@ function App() {
     <>
       <div>
        <h1>hello git</h1>
+       <h2>hello gittttttt</h2>
       </div>
       
       <div className="card">
