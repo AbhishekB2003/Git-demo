@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <div>
-       <h1>hello git</h1>
-       <h2>hello gittttttt</h2>
+       <h1>branch 1 initial commit</h1>
+       
       </div>
       
       <div className="card">
